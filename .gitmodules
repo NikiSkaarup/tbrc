@@ -1,0 +1,3 @@
+[submodule "tbrc-server"]
+	path = tbrc-server
+	url = https://github.com/nikiskaarup/tbrc-server
